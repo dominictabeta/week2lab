@@ -5,6 +5,6 @@
 [link to github](https://github.com/dominictabeta)
 
 * foo
-* *bar
-* *hurf
-* *durf
+* bar
+* hurf
+* durf
